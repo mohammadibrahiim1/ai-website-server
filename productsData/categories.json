@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "productivity"
+    },
+    {
+      "id": 2,
+      "name": "life-assistant"
+    },
+    {
+      "id": 3,
+      "name": "developer-tools"
+    },
+    {
+      "id": 4,
+      "name": "fun-tools"
+    },
+    {
+      "id": 5,
+      "name": "lo-code/no-code"
+    },
+    {
+      "id": 6,
+      "name": "copywriting"
+    },
+    {
+      "id":7,
+      "name": "search-engine"
+    },
+    {
+      "id":8,
+      "name": "social-media-assistant"
+    },
+    {
+      "id":9,
+      "name": "general-writing"
+    },
+    {
+      "id":10,
+      "name": "sales"
+    }
+ 
+  ]

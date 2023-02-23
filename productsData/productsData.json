@@ -1,0 +1,1218 @@
+[
+    {
+      "_createdAt": "2022-12-02T13:42:50Z",
+      "_id": "e58eeb8b-739d-492c-aa67-80e934e7d732",
+      "_rev": "gX643uZzJEuanIjZl7Y4yB",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:15:27Z",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 2812,
+      "id": "e58eeb8b-739d-492c-aa67-80e934e7d732",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/z5qLMVq/cb14850c361821a3f5d89231709be3a11205e1d7-1347x911.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": ["API"],
+      "pricing": ["Freemium"],
+      "publishedAt": "2022-12-02T13:43:13.299Z",
+      "publishedAt_timestamp": 1669988593299,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117bt74/chatgpt_chatgpt_optimizes_language_models_for/",
+      "slug": {
+        "_type": "slug",
+        "current": "chatgpt"
+      },
+      "category": "search-engine",
+      "startingPrice": "$20/mo",
+      "status": "Published",
+      "tagsIndex": ["#productivity", "#search-engine"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:46:03Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIjOC",
+          "_rev": "bu9WdT8LTT0xd1Db5r68Eb",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-07T16:41:50Z",
+          "categoryCode": "biz-5",
+          "categoryName": "productivity",
+          "relatedCategories": [
+            {
+              "_key": "83d185c5cdf2",
+              "_ref": "kxHCIyVPfR3nkfRNFsIsGC",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "productivity"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:46:10Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIq36",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcq0",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:26Z",
+          "categoryCode": "misc-1",
+          "categoryName": "search engine",
+          "relatedCategories": [
+            {
+              "_key": "cZ82P73HmxHK8vAATxooi5",
+              "_ref": "B8o7xf7Q4mKeMEiyAO3myQ",
+              "_type": "reference"
+            },
+            {
+              "_key": "74y92KrP6WDnJDEG3Yn6qX",
+              "_ref": "UnZ2THkIAtRzfNq86Wg2Lw",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "search-engine"
+          }
+        }
+      ],
+      "toolDescription": "ChatGPT: Optimizing Language Models for Dialogue.\nThe dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.",
+      "toolName": "ChatGPT",
+      "toolShortDescription": "ChatGPT optimizes language models for dialogue",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://chat.openai.com/chat?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-21T20:24:54Z",
+      "_id": "o1NTsxvTp9PGcZmR9oGrA8",
+      "_rev": "XRbjewQtw3kz1AeTa55A0g",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:18:51Z",
+      "dealText": "Use code FUTURE20 to get 20% off your first 3 months or 20% off any annual plan.",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 787,
+      "id": "o1NTsxvTp9PGcZmR9oGrA8",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/jbn4qwQ/durable.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Freemium", "Deals"],
+      "publishedAt": "2022-11-21T20:24:54Z",
+      "publishedAt_timestamp": 1669062294000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/11727u5/durable_create_a_website_automate_marketing/",
+      "searchTermForReview": "Durable ai review",
+      "slug": {
+        "_type": "slug",
+        "current": "durable-ai"
+      },
+      "category": "low-code/no-code",
+      "sponsorOfTheDay": false,
+      "startingPrice": "$9/mo",
+      "status": "Published",
+      "tagsIndex": ["#finance", "#no-code", "#startup-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-13T09:21:11Z",
+          "_id": "410113a3-bfca-4874-aba3-2c9abd2a7a86",
+          "_rev": "nk5KEhXxm13zdDvqRzywMO",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-16T09:03:35Z",
+          "categoryCode": "biz-10",
+          "categoryName": "finance",
+          "relatedCategories": [
+            {
+              "_key": "9d56d4bef642",
+              "_ref": "B8o7xf7Q4mKeMEiyAO40ZO",
+              "_type": "reference"
+            },
+            {
+              "_key": "61dffd8ccfa3",
+              "_ref": "kxHCIyVPfR3nkfRNFsIjOC",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "finance"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:38Z",
+          "_id": "UnZ2THkIAtRzfNq86WfjaE",
+          "_rev": "HkrqXlwLgfsHEawZC0yN9e",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-04T21:09:49Z",
+          "categoryCode": "code-2",
+          "categoryName": "low-code/no-code",
+          "relatedCategories": [
+            {
+              "_key": "7uip8cAhtfA1mWApeP24Tk",
+              "_ref": "B8o7xf7Q4mKeMEiyAO2rue",
+              "_type": "reference"
+            },
+            {
+              "_key": "7yY41gBrhAgb5Dtg7qtSi7",
+              "_ref": "kxHCIyVPfR3nkfRNFsIjOC",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "no-code"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:46:01Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIige",
+          "_rev": "enhC1PSrJcIhFeqHwSGLPl",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-20T07:03:22Z",
+          "categoryCode": "biz-4",
+          "categoryName": "startup tools",
+          "slug": {
+            "_type": "slug",
+            "current": "startup-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Get your business online in 30 seconds. The AI-powered platform for solo business owners. Generate a website, automate your marketing, and manage your finances.",
+      "toolName": "Durable",
+      "toolShortDescription": "Create a website, automate marketing & manage finances in 30 secs",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://durable.co/?via=futurepedia",
+      "youtubeUrl": "https://www.youtube.com/watch?v=tHeRsMxHpY8"
+    },
+    {
+      "_createdAt": "2022-11-04T15:02:12Z",
+      "_id": "5124d837-f0be-49c4-b922-c879928376d0",
+      "_rev": "JEIHtQ1AchMVvAQ7OCVKWx",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:20:28Z",
+      "dealText": "Use code FLIKI10FUTUREPEDIA to get 10% off on monthly plans",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 1705,
+      "id": "5124d837-f0be-49c4-b922-c879928376d0",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/GPdckB0/fliki.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": ["API"],
+      "pricing": ["Freemium", "Deals"],
+      "publishedAt": "2022-11-04T15:02:12Z",
+      "publishedAt_timestamp": 1667574132000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/1170cam/fliki_create_videos_from_blog_posts_in_2_mins/",
+      "searchTermForReview": "Fliki AI reviews",
+      "slug": {
+        "_type": "slug",
+        "current": "fliki"
+      },
+      "category": "developer-tools",
+      "startingPrice": "$8/mo",
+      "status": "Published",
+      "tagsIndex": ["#text-to-speech", "#video-generator"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:44Z",
+          "_id": "UnZ2THkIAtRzfNq86WfnJi",
+          "_rev": "UnZ2THkIAtRzfNq86Wi8DY",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:09Z",
+          "categoryCode": "audio-1",
+          "categoryName": "text to speech",
+          "relatedCategories": [
+            {
+              "_key": "ekFFmMhZK1b4AZEmnoHYEW",
+              "_ref": "UnZ2THkIAtRzfNq86WfoKc",
+              "_type": "reference"
+            },
+            {
+              "_key": "2fk7VMa2nGUEFdLqnhMtyP",
+              "_ref": "kxHCIyVPfR3nkfRNFsIbbw",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "text-to-speech"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:50Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIbbw",
+          "_rev": "UnZ2THkIAtRzfNq86Wi9g8",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:23Z",
+          "categoryCode": "video-1",
+          "categoryName": "video generator",
+          "relatedCategories": [
+            {
+              "_key": "pbVx23Uct8BFJWoTGLUb4q",
+              "_ref": "UnZ2THkIAtRzfNq86WfrII",
+              "_type": "reference"
+            },
+            {
+              "_key": "b4woo4NyLzk7WLJRGAmg8H",
+              "_ref": "kxHCIyVPfR3nkfRNFsId7U",
+              "_type": "reference"
+            },
+            {
+              "_key": "3rhwNLcWJNPdENVJS6gYgS",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "video-generator"
+          }
+        }
+      ],
+      "toolDescription": "Create videos from scripts or blog posts using realistic voices in 2 minutes!\nTransform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library.\nTrusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork.\n",
+      "toolName": "Fliki",
+      "toolShortDescription": "Create videos from blog posts in 2 mins",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://fliki.ai/?via=futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-04T15:05:42Z",
+      "_id": "9e7ee636-98ea-4854-bb53-3e940e80e63c",
+      "_rev": "JEIHtQ1AchMVvAQ7OCQcD4",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T03:59:59Z",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 574,
+      "id": "9e7ee636-98ea-4854-bb53-3e940e80e63c",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/3zxM6sn/mubert.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": ["API"],
+      "pricing": ["Freemium"],
+      "publishedAt": "2022-11-04T15:05:42Z",
+      "publishedAt_timestamp": 1667574342000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117dnzl/mubert_royaltyfree_music_ecosystem_for_content/",
+      "searchTermForReview": "mubert ai reviews",
+      "slug": {
+        "_type": "slug",
+        "current": "mubert"
+      },
+      "category": "text-to-speach",
+      "startingPrice": "",
+      "status": "Published",
+      "tagsIndex": ["#text-to-speech"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:44Z",
+          "_id": "UnZ2THkIAtRzfNq86WfnJi",
+          "_rev": "UnZ2THkIAtRzfNq86Wi8DY",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:09Z",
+          "categoryCode": "audio-1",
+          "categoryName": "text to speech",
+          "relatedCategories": [
+            {
+              "_key": "ekFFmMhZK1b4AZEmnoHYEW",
+              "_ref": "UnZ2THkIAtRzfNq86WfoKc",
+              "_type": "reference"
+            },
+            {
+              "_key": "2fk7VMa2nGUEFdLqnhMtyP",
+              "_ref": "kxHCIyVPfR3nkfRNFsIbbw",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "text-to-speech"
+          }
+        }
+      ],
+      "toolDescription": "Mubert - The new royalty-free music ecosystem for content creators, brands and developers 🔥. Come See How Our High-Quality Music Can Elevate Your Content ⏩!",
+      "toolName": "Mubert",
+      "toolShortDescription": "Royalty-free music ecosystem for content creators, brands & developers.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://mubert.com/?via=futurepedia"
+    },
+    {
+      "_createdAt": "2023-01-12T06:56:54Z",
+      "_id": "97198ca5-4db9-4768-972b-2004331888a6",
+      "_rev": "gX643uZzJEuanIjZl66ibg",
+      "_type": "tool",
+      "_updatedAt": "2023-02-21T23:34:03Z",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 283,
+      "id": "97198ca5-4db9-4768-972b-2004331888a6",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/r4SV2w5/happycopy.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Free Trial"],
+      "publishedAt": "2023-01-12T06:56:51.250Z",
+      "publishedAt_timestamp": 1673506611250,
+      "searchTermForReview": "HoppyCopy ai reviews",
+      "slug": {
+        "_type": "slug",
+        "current": "hoppycopy"
+      },
+      "category": "email-assistant",
+      "startingPrice": "$29/mo.",
+      "status": "Published",
+      "tagsIndex": ["#email-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:23Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIGZ6",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcA4",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:18Z",
+          "categoryCode": "text-7",
+          "categoryName": "email assistant",
+          "relatedCategories": [
+            {
+              "_key": "hvQY95CzDyEoJEzGg5fdyv",
+              "_ref": "UnZ2THkIAtRzfNq86WfzKU",
+              "_type": "reference"
+            },
+            {
+              "_key": "h57dEjuJKHHsA5YvqdUykS",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "kpzFW2n66VMMSRibbanhtp",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "a53xEAsRstpCjCtWgQmsA3",
+              "_ref": "UnZ2THkIAtRzfNq86WfuL0",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "email-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Write high-converting emails, 10x faster.\nSave countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more.",
+      "toolName": "HoppyCopy",
+      "toolShortDescription": "Create high-converting emails quickly with AI-generated copy.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://www.hoppycopy.co/?via=futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-04T15:02:26Z",
+      "_id": "76291196-da25-4a45-a1f2-4095a55eb2bd",
+      "_rev": "XRbjewQtw3kz1AeTa4qjtJ",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T03:34:52Z",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 497,
+      "id": "76291196-da25-4a45-a1f2-4095a55eb2bd",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/ZLqKR3L/synthesia.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Paid"],
+      "publishedAt": "2022-11-04T15:02:26Z",
+      "publishedAt_timestamp": 1667574146000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117elq4/synthesia_create_ai_videos_from_text_easy_cheap/",
+      "searchTermForReview": "Synthesia  ai reviews",
+      "slug": {
+        "_type": "slug",
+        "current": "synthesia"
+      },
+      "category": "video-genarator",
+      "startingPrice": "$30/mo",
+      "status": "Published",
+      "tagsIndex": ["#video-generator"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:50Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIbbw",
+          "_rev": "UnZ2THkIAtRzfNq86Wi9g8",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:23Z",
+          "categoryCode": "video-1",
+          "categoryName": "video generator",
+          "relatedCategories": [
+            {
+              "_key": "pbVx23Uct8BFJWoTGLUb4q",
+              "_ref": "UnZ2THkIAtRzfNq86WfrII",
+              "_type": "reference"
+            },
+            {
+              "_key": "b4woo4NyLzk7WLJRGAmg8H",
+              "_ref": "kxHCIyVPfR3nkfRNFsId7U",
+              "_type": "reference"
+            },
+            {
+              "_key": "3rhwNLcWJNPdENVJS6gYgS",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "video-generator"
+          }
+        }
+      ],
+      "toolDescription": "Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.",
+      "toolName": "Synthesia",
+      "toolShortDescription": "Create AI videos from text. Easy, cheap, scalable. Human presenters. Free demo.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://www.synthesia.io/?via=futurepedia"
+    },
+    {
+      "_createdAt": "2023-01-31T21:15:13Z",
+      "_id": "3ff9de94-ba89-4ffe-96a3-3910a5abc1c1",
+      "_rev": "gX643uZzJEuanIjZl7VCBB",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:05:10Z",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 589,
+      "id": "3ff9de94-ba89-4ffe-96a3-3910a5abc1c1",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/WGw4W4t/piggy-to.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": ["Mobile App", "No Signup Required"],
+      "pricing": ["Free"],
+      "publishedAt": "2023-02-01T00:51:40.338Z",
+      "publishedAt_timestamp": 1675212700338,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117dlfo/piggy_to_create_stunning_content_on_your_mobile/",
+      "slug": {
+        "_type": "slug",
+        "current": "piggy-to"
+      },
+      "category": "fun-tools",
+      "sponsorOfTheDay": false,
+      "startingPrice": "",
+      "status": "In Review",
+      "tagsIndex": ["#social-media-assistant", "#fun-tools"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:46:18Z",
+          "_id": "kxHCIyVPfR3nkfRNFsItFU",
+          "_rev": "w97dWrTEltPaiH53aDXlBU",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-29T19:55:34Z",
+          "categoryCode": "misc-6",
+          "categoryName": "fun tools",
+          "relatedCategories": [
+            {
+              "_key": "d9093da87026",
+              "_ref": "B8o7xf7Q4mKeMEiyAO40ZO",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "fun-tools"
+          }
+        }
+      ],
+      "toolDescription": "Create an engaging and shareable webpage in seconds. By entering a prompt, the tool generates 7-10 slides in a mobile-friendly format, saving time and ensuring visually appealing content. Ideal for businesses and individuals, Piggy Magic offers a user-friendly, time-saving solution for creating impactful content. You can also mention their twitter bot with a topic to get a beautiful piggy about that topic within a minute (for example - \"@makeapiggy most popular books\")",
+      "toolName": "Piggy To",
+      "toolShortDescription": "Create stunning content on your mobile.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://piggy.to/magic?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+    },
+    {
+      "_createdAt": "2023-01-25T14:51:02Z",
+      "_id": "9d0612e3-1772-465b-bcf4-55a41e3d15cf",
+      "_rev": "XRbjewQtw3kz1AeTa52oCd",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:08:18Z",
+      "defunct": {
+        "defunctReason": "No Longer Available",
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 177,
+      "id": "9d0612e3-1772-465b-bcf4-55a41e3d15cf",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/QFsK6YQ/pridictai.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": ["API"],
+      "pricing": ["Paid"],
+      "publishedAt": "2023-01-26T05:35:00.303Z",
+      "publishedAt_timestamp": 1674711300303,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/1182xjw/predict_ai_predicts_customer_responses_on/",
+      "slug": {
+        "_type": "slug",
+        "current": "predict-ai"
+      },
+      "category": "social-media-assistant",
+      "sponsorOfTheDay": false,
+      "startingPrice": "",
+      "status": "Published",
+      "tagsIndex": ["#design-assistant", "#social-media-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:32Z",
+          "_id": "UnZ2THkIAtRzfNq86Wffhw",
+          "_rev": "B8o7xf7Q4mKeMEiyAOBm50",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:04Z",
+          "categoryCode": "image-4",
+          "categoryName": "design assistant",
+          "relatedCategories": [
+            {
+              "_key": "xAgy3kwsVkF84AqdUB7ayS",
+              "_ref": "UnZ2THkIAtRzfNq86WfeWy",
+              "_type": "reference"
+            },
+            {
+              "_key": "qsi1ZtPkb5wHxGNhaLDGm5",
+              "_ref": "kxHCIyVPfR3nkfRNFsIjOC",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "design-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Predict is an AI tool that predicts customer responses on creative assets such as attention and cognition with 95% accuracy. It is built on an industry-leading eye-tracking database and validated through neuroscientific methods.",
+      "toolName": "Predict AI",
+      "toolShortDescription": "Predicts customer responses on creative assets",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://www.neuronsinc.com/predict?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-21T20:19:05Z",
+      "_id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "_rev": "XRbjewQtw3kz1AeTa54MQD",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:14:56Z",
+      "defunct": {
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 722,
+      "id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/X4htg8P/adcreative-ai.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Free Trial"],
+      "publishedAt": "2022-11-21T20:19:05Z",
+      "publishedAt_timestamp": 1669061945000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117299e/adcreativeai_create_conversionfocused_ads_posts/",
+      "searchTermForReview": "Adcreative.ai review",
+      "slug": {
+        "_type": "slug",
+        "current": "adcreative.ai"
+      },
+      "category": "copywriting",
+      "startingPrice": "$29/mo",
+      "status": "Published",
+      "tagsIndex": ["#copywriting-assistant", "#social-media-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:16Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIAzw",
+          "_rev": "HkrqXlwLgfsHEawZC0ynW6",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-04T21:11:27Z",
+          "categoryCode": "text-3",
+          "categoryName": "copywriting",
+          "relatedCategories": [
+            {
+              "_key": "3FkLjFDKg8Z5SVhK242YPc",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "gNM4n2W3UG5hcJBB6M6h2t",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            },
+            {
+              "_key": "16NDG3i8uCNV4m7HnbfDpf",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "copywriting-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.",
+      "toolName": "Adcreative.ai",
+      "toolShortDescription": "Create conversion-focused ads & posts quickly & easily for better results.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://free-trial.adcreative.ai/futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-21T20:19:05Z",
+      "_id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "_rev": "XRbjewQtw3kz1AeTa54MQD",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:14:56Z",
+      "defunct": {
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 722,
+      "id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/X4htg8P/adcreative-ai.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Free Trial"],
+      "publishedAt": "2022-11-21T20:19:05Z",
+      "publishedAt_timestamp": 1669061945000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117299e/adcreativeai_create_conversionfocused_ads_posts/",
+      "searchTermForReview": "Adcreative.ai review",
+      "slug": {
+        "_type": "slug",
+        "current": "adcreative.ai"
+      },
+      "category": "copywriting",
+      "startingPrice": "$29/mo",
+      "status": "Published",
+      "tagsIndex": ["#copywriting-assistant", "#social-media-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:16Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIAzw",
+          "_rev": "HkrqXlwLgfsHEawZC0ynW6",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-04T21:11:27Z",
+          "categoryCode": "text-3",
+          "categoryName": "copywriting",
+          "relatedCategories": [
+            {
+              "_key": "3FkLjFDKg8Z5SVhK242YPc",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "gNM4n2W3UG5hcJBB6M6h2t",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            },
+            {
+              "_key": "16NDG3i8uCNV4m7HnbfDpf",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "copywriting-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.",
+      "toolName": "Adcreative.ai",
+      "toolShortDescription": "Create conversion-focused ads & posts quickly & easily for better results.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://free-trial.adcreative.ai/futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-21T20:19:05Z",
+      "_id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "_rev": "XRbjewQtw3kz1AeTa54MQD",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:14:56Z",
+      "defunct": {
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 722,
+      "id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/X4htg8P/adcreative-ai.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Free Trial"],
+      "publishedAt": "2022-11-21T20:19:05Z",
+      "publishedAt_timestamp": 1669061945000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117299e/adcreativeai_create_conversionfocused_ads_posts/",
+      "searchTermForReview": "Adcreative.ai review",
+      "slug": {
+        "_type": "slug",
+        "current": "adcreative.ai"
+      },
+      "category":"life-assistant",
+      "startingPrice": "$29/mo",
+      "status": "Published",
+      "tagsIndex": ["#copywriting-assistant", "#social-media-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:16Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIAzw",
+          "_rev": "HkrqXlwLgfsHEawZC0ynW6",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-04T21:11:27Z",
+          "categoryCode": "text-3",
+          "categoryName": "copywriting",
+          "relatedCategories": [
+            {
+              "_key": "3FkLjFDKg8Z5SVhK242YPc",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "gNM4n2W3UG5hcJBB6M6h2t",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            },
+            {
+              "_key": "16NDG3i8uCNV4m7HnbfDpf",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "copywriting-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.",
+      "toolName": "Adcreative.ai",
+      "toolShortDescription": "Create conversion-focused ads & posts quickly & easily for better results.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://free-trial.adcreative.ai/futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-21T20:19:05Z",
+      "_id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "_rev": "XRbjewQtw3kz1AeTa54MQD",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:14:56Z",
+      "defunct": {
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 722,
+      "id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/X4htg8P/adcreative-ai.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Free Trial"],
+      "publishedAt": "2022-11-21T20:19:05Z",
+      "publishedAt_timestamp": 1669061945000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117299e/adcreativeai_create_conversionfocused_ads_posts/",
+      "searchTermForReview": "Adcreative.ai review",
+      "slug": {
+        "_type": "slug",
+        "current": "adcreative.ai"
+      },
+      "category":"lo-code/no-code",
+      "startingPrice": "$29/mo",
+      "status": "Published",
+      "tagsIndex": ["#copywriting-assistant", "#social-media-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:16Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIAzw",
+          "_rev": "HkrqXlwLgfsHEawZC0ynW6",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-04T21:11:27Z",
+          "categoryCode": "text-3",
+          "categoryName": "copywriting",
+          "relatedCategories": [
+            {
+              "_key": "3FkLjFDKg8Z5SVhK242YPc",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "gNM4n2W3UG5hcJBB6M6h2t",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            },
+            {
+              "_key": "16NDG3i8uCNV4m7HnbfDpf",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "copywriting-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.",
+      "toolName": "Adcreative.ai",
+      "toolShortDescription": "Create conversion-focused ads & posts quickly & easily for better results.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://free-trial.adcreative.ai/futurepedia"
+    },
+    {
+      "_createdAt": "2022-11-21T20:19:05Z",
+      "_id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "_rev": "XRbjewQtw3kz1AeTa54MQD",
+      "_type": "tool",
+      "_updatedAt": "2023-02-22T04:14:56Z",
+      "defunct": {
+        "defunctStatus": false
+      },
+      "duplicate": false,
+      "favCount": 722,
+      "id": "nCZqvxq1PbHe8K3wCm1ikM",
+      "mainImage": {
+        "_type": "image",
+        "asset": {
+          "_ref": "https://i.ibb.co/X4htg8P/adcreative-ai.webp",
+          "_type": "reference"
+        }
+      },
+      "newFeatures": [],
+      "pricing": ["Free Trial"],
+      "publishedAt": "2022-11-21T20:19:05Z",
+      "publishedAt_timestamp": 1669061945000,
+      "redditUrl": "https://www.reddit.com/r/futurepedia_io/comments/117299e/adcreativeai_create_conversionfocused_ads_posts/",
+      "searchTermForReview": "Adcreative.ai review",
+      "slug": {
+        "_type": "slug",
+        "current": "adcreative.ai"
+      },
+      "category":"productivity",
+      "startingPrice": "$29/mo",
+      "status": "Published",
+      "tagsIndex": ["#copywriting-assistant", "#social-media-assistant"],
+      "toolCategories": [
+        {
+          "_createdAt": "2023-01-01T18:45:16Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIAzw",
+          "_rev": "HkrqXlwLgfsHEawZC0ynW6",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-04T21:11:27Z",
+          "categoryCode": "text-3",
+          "categoryName": "copywriting",
+          "relatedCategories": [
+            {
+              "_key": "3FkLjFDKg8Z5SVhK242YPc",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "gNM4n2W3UG5hcJBB6M6h2t",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            },
+            {
+              "_key": "16NDG3i8uCNV4m7HnbfDpf",
+              "_ref": "kxHCIyVPfR3nkfRNFsIHgS",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "copywriting-assistant"
+          }
+        },
+        {
+          "_createdAt": "2023-01-01T18:45:24Z",
+          "_id": "kxHCIyVPfR3nkfRNFsIHgS",
+          "_rev": "kxHCIyVPfR3nkfRNFsLcLM",
+          "_type": "toolCategory",
+          "_updatedAt": "2023-01-01T19:01:19Z",
+          "categoryCode": "text-8",
+          "categoryName": "social media assistant",
+          "relatedCategories": [
+            {
+              "_key": "5DqsnpxEz53kpUQs41zL58",
+              "_ref": "kxHCIyVPfR3nkfRNFsIAzw",
+              "_type": "reference"
+            },
+            {
+              "_key": "dFb7gFyTYaohC7yaJbEBU8",
+              "_ref": "B8o7xf7Q4mKeMEiyAO1uto",
+              "_type": "reference"
+            },
+            {
+              "_key": "9Wt15qATqX9yUEM3jo8q48",
+              "_ref": "kxHCIyVPfR3nkfRNFsIGZ6",
+              "_type": "reference"
+            }
+          ],
+          "slug": {
+            "_type": "slug",
+            "current": "social-media-assistant"
+          }
+        }
+      ],
+      "toolDescription": "Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.",
+      "toolName": "Adcreative.ai",
+      "toolShortDescription": "Create conversion-focused ads & posts quickly & easily for better results.",
+      "verified": true,
+      "verifiedReason": "Recommended",
+      "websiteUrl": "https://free-trial.adcreative.ai/futurepedia"
+    }
+  
+  ]
+  
